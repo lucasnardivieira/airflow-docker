@@ -1,0 +1,720 @@
+[2024-04-23 20:53:52,089] {processor.py:153} INFO - Started process (PID=63) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:53:52,091] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:53:52,093] {logging_mixin.py:115} INFO - [2024-04-23 20:53:52,093] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:54:09,653] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:54:10,341] {logging_mixin.py:115} INFO - [2024-04-23 20:54:10,341] {manager.py:508} INFO - Created Permission View: can delete on DAG:moedas
+[2024-04-23 20:54:10,367] {logging_mixin.py:115} INFO - [2024-04-23 20:54:10,367] {manager.py:508} INFO - Created Permission View: can edit on DAG:moedas
+[2024-04-23 20:54:10,388] {logging_mixin.py:115} INFO - [2024-04-23 20:54:10,387] {manager.py:508} INFO - Created Permission View: can read on DAG:moedas
+[2024-04-23 20:54:10,390] {logging_mixin.py:115} INFO - [2024-04-23 20:54:10,388] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:54:10,418] {logging_mixin.py:115} INFO - [2024-04-23 20:54:10,417] {dag.py:2390} INFO - Creating ORM DAG for moedas
+[2024-04-23 20:54:10,483] {logging_mixin.py:115} INFO - [2024-04-23 20:54:10,482] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:54:10,537] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 18.516 seconds
+[2024-04-23 20:55:21,292] {processor.py:153} INFO - Started process (PID=151) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:55:21,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:55:21,308] {logging_mixin.py:115} INFO - [2024-04-23 20:55:21,308] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:55:22,948] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:55:22,998] {logging_mixin.py:115} INFO - [2024-04-23 20:55:22,997] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:55:23,065] {logging_mixin.py:115} INFO - [2024-04-23 20:55:23,065] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:55:23,100] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 1.825 seconds
+[2024-04-23 20:55:53,196] {processor.py:153} INFO - Started process (PID=212) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:55:53,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:55:53,200] {logging_mixin.py:115} INFO - [2024-04-23 20:55:53,199] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:55:53,871] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:55:53,899] {logging_mixin.py:115} INFO - [2024-04-23 20:55:53,898] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:55:53,929] {logging_mixin.py:115} INFO - [2024-04-23 20:55:53,929] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:55:53,948] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.758 seconds
+[2024-04-23 20:56:24,654] {processor.py:153} INFO - Started process (PID=282) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:56:24,655] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:56:24,656] {logging_mixin.py:115} INFO - [2024-04-23 20:56:24,656] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:56:25,437] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:56:25,482] {logging_mixin.py:115} INFO - [2024-04-23 20:56:25,480] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:56:25,523] {logging_mixin.py:115} INFO - [2024-04-23 20:56:25,523] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:56:25,547] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.898 seconds
+[2024-04-23 20:56:55,677] {processor.py:153} INFO - Started process (PID=352) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:56:55,678] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:56:55,679] {logging_mixin.py:115} INFO - [2024-04-23 20:56:55,679] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:56:56,275] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:56:56,303] {logging_mixin.py:115} INFO - [2024-04-23 20:56:56,302] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:56:56,328] {logging_mixin.py:115} INFO - [2024-04-23 20:56:56,328] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:56:56,343] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.671 seconds
+[2024-04-23 20:57:27,013] {processor.py:153} INFO - Started process (PID=413) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:57:27,015] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:57:27,019] {logging_mixin.py:115} INFO - [2024-04-23 20:57:27,019] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:57:28,951] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:57:29,002] {logging_mixin.py:115} INFO - [2024-04-23 20:57:28,998] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:57:29,062] {logging_mixin.py:115} INFO - [2024-04-23 20:57:29,062] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:57:29,091] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 2.088 seconds
+[2024-04-23 20:57:59,533] {processor.py:153} INFO - Started process (PID=483) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:57:59,534] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:57:59,535] {logging_mixin.py:115} INFO - [2024-04-23 20:57:59,535] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:58:00,346] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:58:00,371] {logging_mixin.py:115} INFO - [2024-04-23 20:58:00,371] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:58:00,397] {logging_mixin.py:115} INFO - [2024-04-23 20:58:00,397] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:58:00,411] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.884 seconds
+[2024-04-23 20:58:30,577] {processor.py:153} INFO - Started process (PID=545) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:58:30,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:58:30,579] {logging_mixin.py:115} INFO - [2024-04-23 20:58:30,579] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:58:31,240] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:58:31,264] {logging_mixin.py:115} INFO - [2024-04-23 20:58:31,264] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:58:31,287] {logging_mixin.py:115} INFO - [2024-04-23 20:58:31,287] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:58:31,302] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.730 seconds
+[2024-04-23 20:59:01,536] {processor.py:153} INFO - Started process (PID=616) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:59:01,537] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:59:01,538] {logging_mixin.py:115} INFO - [2024-04-23 20:59:01,538] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:59:02,302] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:59:02,334] {logging_mixin.py:115} INFO - [2024-04-23 20:59:02,333] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:59:02,373] {logging_mixin.py:115} INFO - [2024-04-23 20:59:02,373] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:59:02,390] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.860 seconds
+[2024-04-23 20:59:32,620] {processor.py:153} INFO - Started process (PID=684) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:59:32,622] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 20:59:32,624] {logging_mixin.py:115} INFO - [2024-04-23 20:59:32,624] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:59:33,306] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 20:59:33,330] {logging_mixin.py:115} INFO - [2024-04-23 20:59:33,330] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 20:59:33,354] {logging_mixin.py:115} INFO - [2024-04-23 20:59:33,354] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 20:59:33,371] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.764 seconds
+[2024-04-23 21:00:03,664] {processor.py:153} INFO - Started process (PID=747) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:00:03,666] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:00:03,667] {logging_mixin.py:115} INFO - [2024-04-23 21:00:03,667] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:00:04,484] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:00:04,519] {logging_mixin.py:115} INFO - [2024-04-23 21:00:04,518] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:00:04,552] {logging_mixin.py:115} INFO - [2024-04-23 21:00:04,552] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:00:04,570] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.914 seconds
+[2024-04-23 21:00:34,697] {processor.py:153} INFO - Started process (PID=816) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:00:34,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:00:34,699] {logging_mixin.py:115} INFO - [2024-04-23 21:00:34,699] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:00:35,299] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:00:35,323] {logging_mixin.py:115} INFO - [2024-04-23 21:00:35,323] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:00:35,347] {logging_mixin.py:115} INFO - [2024-04-23 21:00:35,347] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:00:35,361] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.668 seconds
+[2024-04-23 21:01:05,512] {processor.py:153} INFO - Started process (PID=877) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:01:05,513] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:01:05,513] {logging_mixin.py:115} INFO - [2024-04-23 21:01:05,513] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:01:06,138] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:01:06,162] {logging_mixin.py:115} INFO - [2024-04-23 21:01:06,161] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:01:06,185] {logging_mixin.py:115} INFO - [2024-04-23 21:01:06,185] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:01:06,199] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.692 seconds
+[2024-04-23 21:01:36,412] {processor.py:153} INFO - Started process (PID=947) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:01:36,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:01:36,414] {logging_mixin.py:115} INFO - [2024-04-23 21:01:36,414] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:01:37,016] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:01:37,040] {logging_mixin.py:115} INFO - [2024-04-23 21:01:37,040] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:01:37,063] {logging_mixin.py:115} INFO - [2024-04-23 21:01:37,063] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:01:37,080] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.671 seconds
+[2024-04-23 21:02:07,143] {processor.py:153} INFO - Started process (PID=1015) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:02:07,144] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:02:07,147] {logging_mixin.py:115} INFO - [2024-04-23 21:02:07,146] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:02:08,172] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:02:08,231] {logging_mixin.py:115} INFO - [2024-04-23 21:02:08,230] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:02:08,303] {logging_mixin.py:115} INFO - [2024-04-23 21:02:08,302] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:02:08,345] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 1.209 seconds
+[2024-04-23 21:02:39,328] {processor.py:153} INFO - Started process (PID=1080) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:02:39,329] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:02:39,330] {logging_mixin.py:115} INFO - [2024-04-23 21:02:39,330] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:02:39,913] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:02:39,938] {logging_mixin.py:115} INFO - [2024-04-23 21:02:39,937] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:02:39,962] {logging_mixin.py:115} INFO - [2024-04-23 21:02:39,962] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:02:39,977] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.654 seconds
+[2024-04-23 21:03:10,698] {processor.py:153} INFO - Started process (PID=1151) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:03:10,699] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:03:10,700] {logging_mixin.py:115} INFO - [2024-04-23 21:03:10,700] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:03:11,389] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:03:11,420] {logging_mixin.py:115} INFO - [2024-04-23 21:03:11,419] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:03:11,462] {logging_mixin.py:115} INFO - [2024-04-23 21:03:11,461] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:03:11,482] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.789 seconds
+[2024-04-23 21:03:41,648] {processor.py:153} INFO - Started process (PID=1212) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:03:41,649] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:03:41,650] {logging_mixin.py:115} INFO - [2024-04-23 21:03:41,650] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:03:42,313] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:03:42,339] {logging_mixin.py:115} INFO - [2024-04-23 21:03:42,339] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:03:42,364] {logging_mixin.py:115} INFO - [2024-04-23 21:03:42,364] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:03:42,379] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.737 seconds
+[2024-04-23 21:04:12,471] {processor.py:153} INFO - Started process (PID=1283) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:04:12,473] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:04:12,474] {logging_mixin.py:115} INFO - [2024-04-23 21:04:12,474] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:04:13,220] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:04:13,249] {logging_mixin.py:115} INFO - [2024-04-23 21:04:13,248] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:04:13,275] {logging_mixin.py:115} INFO - [2024-04-23 21:04:13,274] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:04:13,290] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.824 seconds
+[2024-04-23 21:04:43,354] {processor.py:153} INFO - Started process (PID=1346) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:04:43,355] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:04:43,356] {logging_mixin.py:115} INFO - [2024-04-23 21:04:43,356] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:04:43,941] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:04:43,968] {logging_mixin.py:115} INFO - [2024-04-23 21:04:43,968] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:04:43,989] {logging_mixin.py:115} INFO - [2024-04-23 21:04:43,989] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:04:44,004] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.655 seconds
+[2024-04-23 21:05:14,459] {processor.py:153} INFO - Started process (PID=1416) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:05:14,461] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:05:14,462] {logging_mixin.py:115} INFO - [2024-04-23 21:05:14,462] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:05:15,839] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:05:15,885] {logging_mixin.py:115} INFO - [2024-04-23 21:05:15,884] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:05:15,928] {logging_mixin.py:115} INFO - [2024-04-23 21:05:15,928] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:05:15,950] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 1.498 seconds
+[2024-04-23 21:05:46,197] {processor.py:153} INFO - Started process (PID=1487) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:05:46,198] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:05:46,199] {logging_mixin.py:115} INFO - [2024-04-23 21:05:46,199] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:05:47,055] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:05:47,087] {logging_mixin.py:115} INFO - [2024-04-23 21:05:47,086] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:05:47,117] {logging_mixin.py:115} INFO - [2024-04-23 21:05:47,117] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:05:47,133] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.941 seconds
+[2024-04-23 21:06:17,608] {processor.py:153} INFO - Started process (PID=1553) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:06:17,609] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:06:17,610] {logging_mixin.py:115} INFO - [2024-04-23 21:06:17,610] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:06:18,564] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:06:18,626] {logging_mixin.py:115} INFO - [2024-04-23 21:06:18,625] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:06:18,692] {logging_mixin.py:115} INFO - [2024-04-23 21:06:18,692] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:06:18,716] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 1.114 seconds
+[2024-04-23 21:06:49,127] {processor.py:153} INFO - Started process (PID=1623) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:06:49,128] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:06:49,129] {logging_mixin.py:115} INFO - [2024-04-23 21:06:49,129] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:06:49,973] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:06:50,004] {logging_mixin.py:115} INFO - [2024-04-23 21:06:50,004] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:06:50,041] {logging_mixin.py:115} INFO - [2024-04-23 21:06:50,041] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:06:50,060] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.939 seconds
+[2024-04-23 21:07:20,409] {processor.py:153} INFO - Started process (PID=1692) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:07:20,410] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:07:20,410] {logging_mixin.py:115} INFO - [2024-04-23 21:07:20,410] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:07:21,231] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:07:21,272] {logging_mixin.py:115} INFO - [2024-04-23 21:07:21,271] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:07:21,307] {logging_mixin.py:115} INFO - [2024-04-23 21:07:21,307] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:07:21,340] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.937 seconds
+[2024-04-23 21:07:51,437] {processor.py:153} INFO - Started process (PID=1756) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:07:51,438] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:07:51,439] {logging_mixin.py:115} INFO - [2024-04-23 21:07:51,439] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:07:52,076] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:07:52,101] {logging_mixin.py:115} INFO - [2024-04-23 21:07:52,100] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:07:52,123] {logging_mixin.py:115} INFO - [2024-04-23 21:07:52,123] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:07:52,137] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.704 seconds
+[2024-04-23 21:08:22,456] {processor.py:153} INFO - Started process (PID=1826) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:08:22,457] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:08:22,458] {logging_mixin.py:115} INFO - [2024-04-23 21:08:22,458] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:08:23,025] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:08:23,053] {logging_mixin.py:115} INFO - [2024-04-23 21:08:23,052] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:08:23,076] {logging_mixin.py:115} INFO - [2024-04-23 21:08:23,075] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:08:23,092] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.640 seconds
+[2024-04-23 21:08:53,788] {processor.py:153} INFO - Started process (PID=1893) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:08:53,789] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:08:53,791] {logging_mixin.py:115} INFO - [2024-04-23 21:08:53,791] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:08:54,486] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:08:54,518] {logging_mixin.py:115} INFO - [2024-04-23 21:08:54,517] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:08:54,554] {logging_mixin.py:115} INFO - [2024-04-23 21:08:54,554] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:08:54,572] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.788 seconds
+[2024-04-23 21:09:24,657] {processor.py:153} INFO - Started process (PID=1954) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:09:24,658] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:09:24,659] {logging_mixin.py:115} INFO - [2024-04-23 21:09:24,659] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:09:25,323] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:09:25,345] {logging_mixin.py:115} INFO - [2024-04-23 21:09:25,344] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:09:25,371] {logging_mixin.py:115} INFO - [2024-04-23 21:09:25,371] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:09:25,386] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.734 seconds
+[2024-04-23 21:09:56,302] {processor.py:153} INFO - Started process (PID=2024) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:09:56,303] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:09:56,304] {logging_mixin.py:115} INFO - [2024-04-23 21:09:56,304] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:09:56,900] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:09:56,925] {logging_mixin.py:115} INFO - [2024-04-23 21:09:56,925] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:09:56,947] {logging_mixin.py:115} INFO - [2024-04-23 21:09:56,947] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:09:56,963] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.667 seconds
+[2024-04-23 21:10:27,032] {processor.py:153} INFO - Started process (PID=2085) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:10:27,033] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:10:27,034] {logging_mixin.py:115} INFO - [2024-04-23 21:10:27,034] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:10:27,590] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:10:27,612] {logging_mixin.py:115} INFO - [2024-04-23 21:10:27,612] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:10:27,634] {logging_mixin.py:115} INFO - [2024-04-23 21:10:27,634] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:10:27,654] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.628 seconds
+[2024-04-23 21:10:57,874] {processor.py:153} INFO - Started process (PID=2157) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:10:57,875] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:10:57,876] {logging_mixin.py:115} INFO - [2024-04-23 21:10:57,876] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:10:58,465] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:10:58,500] {logging_mixin.py:115} INFO - [2024-04-23 21:10:58,499] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:10:58,527] {logging_mixin.py:115} INFO - [2024-04-23 21:10:58,527] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:10:58,545] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.675 seconds
+[2024-04-23 21:11:29,084] {processor.py:153} INFO - Started process (PID=2227) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:11:29,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:11:29,086] {logging_mixin.py:115} INFO - [2024-04-23 21:11:29,086] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:11:29,847] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:11:29,870] {logging_mixin.py:115} INFO - [2024-04-23 21:11:29,869] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:11:29,891] {logging_mixin.py:115} INFO - [2024-04-23 21:11:29,891] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:11:29,905] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.826 seconds
+[2024-04-23 21:11:59,955] {processor.py:153} INFO - Started process (PID=2289) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:11:59,956] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:11:59,957] {logging_mixin.py:115} INFO - [2024-04-23 21:11:59,957] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:12:00,527] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:12:00,550] {logging_mixin.py:115} INFO - [2024-04-23 21:12:00,549] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:12:00,571] {logging_mixin.py:115} INFO - [2024-04-23 21:12:00,571] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:12:00,586] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.636 seconds
+[2024-04-23 21:12:30,823] {processor.py:153} INFO - Started process (PID=2358) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:12:30,824] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:12:30,825] {logging_mixin.py:115} INFO - [2024-04-23 21:12:30,825] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:12:31,514] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:12:31,538] {logging_mixin.py:115} INFO - [2024-04-23 21:12:31,537] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:12:31,559] {logging_mixin.py:115} INFO - [2024-04-23 21:12:31,559] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:12:31,572] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.755 seconds
+[2024-04-23 21:13:01,749] {processor.py:153} INFO - Started process (PID=2429) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:13:01,751] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:13:01,752] {logging_mixin.py:115} INFO - [2024-04-23 21:13:01,752] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:13:02,349] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:13:02,373] {logging_mixin.py:115} INFO - [2024-04-23 21:13:02,372] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:13:02,395] {logging_mixin.py:115} INFO - [2024-04-23 21:13:02,395] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:13:02,409] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.667 seconds
+[2024-04-23 21:13:32,507] {processor.py:153} INFO - Started process (PID=2491) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:13:32,509] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:13:32,510] {logging_mixin.py:115} INFO - [2024-04-23 21:13:32,510] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:13:33,081] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:13:33,108] {logging_mixin.py:115} INFO - [2024-04-23 21:13:33,107] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:13:33,130] {logging_mixin.py:115} INFO - [2024-04-23 21:13:33,130] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:13:33,144] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.642 seconds
+[2024-04-23 21:14:03,500] {processor.py:153} INFO - Started process (PID=2563) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:14:03,501] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:14:03,502] {logging_mixin.py:115} INFO - [2024-04-23 21:14:03,502] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:14:04,070] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:14:04,093] {logging_mixin.py:115} INFO - [2024-04-23 21:14:04,092] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:14:04,113] {logging_mixin.py:115} INFO - [2024-04-23 21:14:04,113] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:14:04,127] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.633 seconds
+[2024-04-23 21:14:34,217] {processor.py:153} INFO - Started process (PID=2635) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:14:34,218] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:14:34,219] {logging_mixin.py:115} INFO - [2024-04-23 21:14:34,219] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:14:34,810] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:14:34,832] {logging_mixin.py:115} INFO - [2024-04-23 21:14:34,832] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:14:34,853] {logging_mixin.py:115} INFO - [2024-04-23 21:14:34,853] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:14:34,867] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.655 seconds
+[2024-04-23 21:15:04,980] {processor.py:153} INFO - Started process (PID=2697) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:15:04,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:15:04,982] {logging_mixin.py:115} INFO - [2024-04-23 21:15:04,982] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:15:05,559] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:15:05,582] {logging_mixin.py:115} INFO - [2024-04-23 21:15:05,582] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:15:05,603] {logging_mixin.py:115} INFO - [2024-04-23 21:15:05,603] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:15:05,616] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.641 seconds
+[2024-04-23 21:15:36,024] {processor.py:153} INFO - Started process (PID=2767) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:15:36,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:15:36,026] {logging_mixin.py:115} INFO - [2024-04-23 21:15:36,025] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:15:36,552] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:15:36,574] {logging_mixin.py:115} INFO - [2024-04-23 21:15:36,574] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:15:36,610] {logging_mixin.py:115} INFO - [2024-04-23 21:15:36,610] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:15:36,624] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.604 seconds
+[2024-04-23 21:16:06,963] {processor.py:153} INFO - Started process (PID=2837) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:16:06,964] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:16:06,965] {logging_mixin.py:115} INFO - [2024-04-23 21:16:06,965] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:16:07,545] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:16:07,568] {logging_mixin.py:115} INFO - [2024-04-23 21:16:07,567] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:16:07,589] {logging_mixin.py:115} INFO - [2024-04-23 21:16:07,589] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:16:07,602] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.645 seconds
+[2024-04-23 21:16:37,695] {processor.py:153} INFO - Started process (PID=2898) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:16:37,696] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:16:37,697] {logging_mixin.py:115} INFO - [2024-04-23 21:16:37,697] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:16:38,247] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:16:38,269] {logging_mixin.py:115} INFO - [2024-04-23 21:16:38,269] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:16:38,290] {logging_mixin.py:115} INFO - [2024-04-23 21:16:38,290] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:16:38,303] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.613 seconds
+[2024-04-23 21:17:08,806] {processor.py:153} INFO - Started process (PID=2968) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:17:08,807] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:17:08,808] {logging_mixin.py:115} INFO - [2024-04-23 21:17:08,808] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:17:09,450] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:17:09,472] {logging_mixin.py:115} INFO - [2024-04-23 21:17:09,472] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:17:09,496] {logging_mixin.py:115} INFO - [2024-04-23 21:17:09,496] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:17:09,511] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.711 seconds
+[2024-04-23 21:17:39,791] {processor.py:153} INFO - Started process (PID=3031) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:17:39,792] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:17:39,794] {logging_mixin.py:115} INFO - [2024-04-23 21:17:39,793] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:17:40,604] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:17:40,646] {logging_mixin.py:115} INFO - [2024-04-23 21:17:40,644] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:17:40,691] {logging_mixin.py:115} INFO - [2024-04-23 21:17:40,691] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:17:40,712] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.929 seconds
+[2024-04-23 21:18:11,473] {processor.py:153} INFO - Started process (PID=3101) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:18:11,474] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:18:11,475] {logging_mixin.py:115} INFO - [2024-04-23 21:18:11,475] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:18:12,246] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:18:12,273] {logging_mixin.py:115} INFO - [2024-04-23 21:18:12,272] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:18:12,306] {logging_mixin.py:115} INFO - [2024-04-23 21:18:12,305] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:18:12,322] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.854 seconds
+[2024-04-23 21:18:43,017] {processor.py:153} INFO - Started process (PID=3171) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:18:43,018] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:18:43,019] {logging_mixin.py:115} INFO - [2024-04-23 21:18:43,019] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:18:43,774] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:18:43,797] {logging_mixin.py:115} INFO - [2024-04-23 21:18:43,797] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:18:43,819] {logging_mixin.py:115} INFO - [2024-04-23 21:18:43,819] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:18:43,832] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.821 seconds
+[2024-04-23 21:19:14,651] {processor.py:153} INFO - Started process (PID=3232) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:19:14,652] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:19:14,653] {logging_mixin.py:115} INFO - [2024-04-23 21:19:14,653] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:19:15,375] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:19:15,401] {logging_mixin.py:115} INFO - [2024-04-23 21:19:15,401] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:19:15,427] {logging_mixin.py:115} INFO - [2024-04-23 21:19:15,427] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:19:15,443] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.798 seconds
+[2024-04-23 21:19:45,804] {processor.py:153} INFO - Started process (PID=3304) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:19:45,805] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:19:45,806] {logging_mixin.py:115} INFO - [2024-04-23 21:19:45,805] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:19:46,382] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:19:46,408] {logging_mixin.py:115} INFO - [2024-04-23 21:19:46,408] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:19:46,432] {logging_mixin.py:115} INFO - [2024-04-23 21:19:46,432] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:19:46,448] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.649 seconds
+[2024-04-23 21:20:17,160] {processor.py:153} INFO - Started process (PID=3365) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:20:17,161] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:20:17,162] {logging_mixin.py:115} INFO - [2024-04-23 21:20:17,162] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:20:17,700] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:20:17,723] {logging_mixin.py:115} INFO - [2024-04-23 21:20:17,722] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:20:17,745] {logging_mixin.py:115} INFO - [2024-04-23 21:20:17,745] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:20:17,761] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.605 seconds
+[2024-04-23 21:20:47,840] {processor.py:153} INFO - Started process (PID=3435) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:20:47,841] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:20:47,842] {logging_mixin.py:115} INFO - [2024-04-23 21:20:47,841] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:20:48,383] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:20:48,405] {logging_mixin.py:115} INFO - [2024-04-23 21:20:48,405] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:20:48,427] {logging_mixin.py:115} INFO - [2024-04-23 21:20:48,427] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:20:48,441] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.606 seconds
+[2024-04-23 21:21:19,255] {processor.py:153} INFO - Started process (PID=3505) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:21:19,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:21:19,257] {logging_mixin.py:115} INFO - [2024-04-23 21:21:19,257] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:21:19,882] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:21:19,907] {logging_mixin.py:115} INFO - [2024-04-23 21:21:19,907] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:21:19,934] {logging_mixin.py:115} INFO - [2024-04-23 21:21:19,934] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:21:19,953] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.703 seconds
+[2024-04-23 21:21:50,168] {processor.py:153} INFO - Started process (PID=3566) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:21:50,169] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:21:50,170] {logging_mixin.py:115} INFO - [2024-04-23 21:21:50,170] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:21:50,787] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:21:50,810] {logging_mixin.py:115} INFO - [2024-04-23 21:21:50,809] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:21:50,831] {logging_mixin.py:115} INFO - [2024-04-23 21:21:50,831] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:21:50,845] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.682 seconds
+[2024-04-23 21:22:21,493] {processor.py:153} INFO - Started process (PID=3637) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:22:21,494] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:22:21,495] {logging_mixin.py:115} INFO - [2024-04-23 21:22:21,494] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:22:22,084] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:22:22,106] {logging_mixin.py:115} INFO - [2024-04-23 21:22:22,106] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:22:22,127] {logging_mixin.py:115} INFO - [2024-04-23 21:22:22,127] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:22:22,141] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.653 seconds
+[2024-04-23 21:22:53,024] {processor.py:153} INFO - Started process (PID=3708) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:22:53,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:22:53,026] {logging_mixin.py:115} INFO - [2024-04-23 21:22:53,026] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:22:53,553] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:22:53,576] {logging_mixin.py:115} INFO - [2024-04-23 21:22:53,575] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:22:53,598] {logging_mixin.py:115} INFO - [2024-04-23 21:22:53,598] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:22:53,612] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.593 seconds
+[2024-04-23 21:23:24,377] {processor.py:153} INFO - Started process (PID=3776) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:23:24,378] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:23:24,379] {logging_mixin.py:115} INFO - [2024-04-23 21:23:24,379] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:23:25,025] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:23:25,050] {logging_mixin.py:115} INFO - [2024-04-23 21:23:25,049] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:23:25,081] {logging_mixin.py:115} INFO - [2024-04-23 21:23:25,081] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:23:25,097] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.725 seconds
+[2024-04-23 21:23:55,984] {processor.py:153} INFO - Started process (PID=3840) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:23:55,985] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:23:55,986] {logging_mixin.py:115} INFO - [2024-04-23 21:23:55,986] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:23:56,403] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:23:56,431] {logging_mixin.py:115} INFO - [2024-04-23 21:23:56,430] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:23:56,453] {logging_mixin.py:115} INFO - [2024-04-23 21:23:56,453] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:23:56,467] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.488 seconds
+[2024-04-23 21:24:26,993] {processor.py:153} INFO - Started process (PID=3910) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:24:26,994] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:24:26,995] {logging_mixin.py:115} INFO - [2024-04-23 21:24:26,995] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:24:27,422] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:24:27,451] {logging_mixin.py:115} INFO - [2024-04-23 21:24:27,450] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:24:27,476] {logging_mixin.py:115} INFO - [2024-04-23 21:24:27,475] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:24:27,490] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.501 seconds
+[2024-04-23 21:24:57,884] {processor.py:153} INFO - Started process (PID=3980) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:24:57,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:24:57,886] {logging_mixin.py:115} INFO - [2024-04-23 21:24:57,886] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:24:58,312] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:24:58,341] {logging_mixin.py:115} INFO - [2024-04-23 21:24:58,340] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:24:58,366] {logging_mixin.py:115} INFO - [2024-04-23 21:24:58,365] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:24:58,382] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.502 seconds
+[2024-04-23 21:25:29,145] {processor.py:153} INFO - Started process (PID=4041) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:25:29,146] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:25:29,146] {logging_mixin.py:115} INFO - [2024-04-23 21:25:29,146] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:25:29,628] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:25:29,659] {logging_mixin.py:115} INFO - [2024-04-23 21:25:29,658] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:25:29,683] {logging_mixin.py:115} INFO - [2024-04-23 21:25:29,683] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:25:29,698] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.559 seconds
+[2024-04-23 21:26:00,454] {processor.py:153} INFO - Started process (PID=4111) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:26:00,454] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:26:00,456] {logging_mixin.py:115} INFO - [2024-04-23 21:26:00,456] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:26:00,927] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:26:00,956] {logging_mixin.py:115} INFO - [2024-04-23 21:26:00,955] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:26:00,987] {logging_mixin.py:115} INFO - [2024-04-23 21:26:00,987] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:26:01,007] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.559 seconds
+[2024-04-23 21:26:31,665] {processor.py:153} INFO - Started process (PID=4181) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:26:31,666] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:26:31,667] {logging_mixin.py:115} INFO - [2024-04-23 21:26:31,667] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:26:32,165] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:26:32,193] {logging_mixin.py:115} INFO - [2024-04-23 21:26:32,192] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:26:32,216] {logging_mixin.py:115} INFO - [2024-04-23 21:26:32,216] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:26:32,230] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.569 seconds
+[2024-04-23 21:27:03,194] {processor.py:153} INFO - Started process (PID=4242) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:27:03,195] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:27:03,196] {logging_mixin.py:115} INFO - [2024-04-23 21:27:03,196] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:27:03,598] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:27:03,625] {logging_mixin.py:115} INFO - [2024-04-23 21:27:03,624] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:27:03,648] {logging_mixin.py:115} INFO - [2024-04-23 21:27:03,648] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:27:03,662] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.473 seconds
+[2024-04-23 21:27:34,617] {processor.py:153} INFO - Started process (PID=4312) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:27:34,618] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:27:34,619] {logging_mixin.py:115} INFO - [2024-04-23 21:27:34,619] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:27:35,071] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:27:35,109] {logging_mixin.py:115} INFO - [2024-04-23 21:27:35,108] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:27:35,136] {logging_mixin.py:115} INFO - [2024-04-23 21:27:35,136] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:27:35,151] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.539 seconds
+[2024-04-23 21:28:06,076] {processor.py:153} INFO - Started process (PID=4382) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:28:06,077] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:28:06,078] {logging_mixin.py:115} INFO - [2024-04-23 21:28:06,077] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:28:06,497] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:28:06,526] {logging_mixin.py:115} INFO - [2024-04-23 21:28:06,525] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:28:06,550] {logging_mixin.py:115} INFO - [2024-04-23 21:28:06,550] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:28:06,565] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.502 seconds
+[2024-04-23 21:28:37,193] {processor.py:153} INFO - Started process (PID=4452) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:28:37,194] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:28:37,194] {logging_mixin.py:115} INFO - [2024-04-23 21:28:37,194] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:28:37,617] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:28:37,648] {logging_mixin.py:115} INFO - [2024-04-23 21:28:37,647] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:28:37,673] {logging_mixin.py:115} INFO - [2024-04-23 21:28:37,673] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:28:37,687] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.500 seconds
+[2024-04-23 21:29:07,803] {processor.py:153} INFO - Started process (PID=4513) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:29:07,804] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:29:07,805] {logging_mixin.py:115} INFO - [2024-04-23 21:29:07,805] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:29:08,228] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:29:08,299] {logging_mixin.py:115} INFO - [2024-04-23 21:29:08,299] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:29:08,324] {logging_mixin.py:115} INFO - [2024-04-23 21:29:08,323] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:29:08,340] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.543 seconds
+[2024-04-23 21:29:38,505] {processor.py:153} INFO - Started process (PID=4588) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:29:38,507] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:29:38,508] {logging_mixin.py:115} INFO - [2024-04-23 21:29:38,508] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:29:39,567] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:29:39,614] {logging_mixin.py:115} INFO - [2024-04-23 21:29:39,612] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:29:39,653] {logging_mixin.py:115} INFO - [2024-04-23 21:29:39,653] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:29:39,673] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 1.188 seconds
+[2024-04-23 21:30:10,143] {processor.py:153} INFO - Started process (PID=4653) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:30:10,144] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:30:10,145] {logging_mixin.py:115} INFO - [2024-04-23 21:30:10,145] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:30:10,683] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:30:10,725] {logging_mixin.py:115} INFO - [2024-04-23 21:30:10,723] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:30:10,758] {logging_mixin.py:115} INFO - [2024-04-23 21:30:10,758] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:30:10,777] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.641 seconds
+[2024-04-23 21:30:41,525] {processor.py:153} INFO - Started process (PID=4723) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:30:41,526] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:30:41,527] {logging_mixin.py:115} INFO - [2024-04-23 21:30:41,526] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:30:41,997] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:30:42,035] {logging_mixin.py:115} INFO - [2024-04-23 21:30:42,034] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:30:42,067] {logging_mixin.py:115} INFO - [2024-04-23 21:30:42,067] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:30:42,086] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.566 seconds
+[2024-04-23 21:31:12,185] {processor.py:153} INFO - Started process (PID=4793) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:31:12,186] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:31:12,187] {logging_mixin.py:115} INFO - [2024-04-23 21:31:12,187] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:31:12,623] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:31:12,650] {logging_mixin.py:115} INFO - [2024-04-23 21:31:12,649] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:31:12,674] {logging_mixin.py:115} INFO - [2024-04-23 21:31:12,674] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:31:12,688] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.508 seconds
+[2024-04-23 21:31:43,627] {processor.py:153} INFO - Started process (PID=4854) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:31:43,628] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:31:43,628] {logging_mixin.py:115} INFO - [2024-04-23 21:31:43,628] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:31:44,086] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:31:44,118] {logging_mixin.py:115} INFO - [2024-04-23 21:31:44,117] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:31:44,142] {logging_mixin.py:115} INFO - [2024-04-23 21:31:44,142] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:31:44,158] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.536 seconds
+[2024-04-23 21:32:14,839] {processor.py:153} INFO - Started process (PID=4924) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:32:14,839] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:32:14,840] {logging_mixin.py:115} INFO - [2024-04-23 21:32:14,840] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:32:15,341] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:32:15,373] {logging_mixin.py:115} INFO - [2024-04-23 21:32:15,372] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:32:15,399] {logging_mixin.py:115} INFO - [2024-04-23 21:32:15,399] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:32:15,426] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.592 seconds
+[2024-04-23 21:32:45,962] {processor.py:153} INFO - Started process (PID=4994) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:32:45,963] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:32:45,963] {logging_mixin.py:115} INFO - [2024-04-23 21:32:45,963] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:32:46,463] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:32:46,528] {logging_mixin.py:115} INFO - [2024-04-23 21:32:46,527] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:32:46,553] {logging_mixin.py:115} INFO - [2024-04-23 21:32:46,553] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:32:46,568] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.611 seconds
+[2024-04-23 21:33:17,372] {processor.py:153} INFO - Started process (PID=5064) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:33:17,373] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:33:17,374] {logging_mixin.py:115} INFO - [2024-04-23 21:33:17,374] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:33:17,813] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:33:17,846] {logging_mixin.py:115} INFO - [2024-04-23 21:33:17,845] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:33:17,870] {logging_mixin.py:115} INFO - [2024-04-23 21:33:17,870] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:33:17,885] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.518 seconds
+[2024-04-23 21:33:48,677] {processor.py:153} INFO - Started process (PID=5125) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:33:48,678] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:33:48,679] {logging_mixin.py:115} INFO - [2024-04-23 21:33:48,678] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:33:49,126] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:33:49,156] {logging_mixin.py:115} INFO - [2024-04-23 21:33:49,155] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:33:49,180] {logging_mixin.py:115} INFO - [2024-04-23 21:33:49,180] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:33:49,194] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.523 seconds
+[2024-04-23 21:34:19,973] {processor.py:153} INFO - Started process (PID=5195) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:34:19,974] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:34:19,975] {logging_mixin.py:115} INFO - [2024-04-23 21:34:19,974] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:34:20,408] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:34:20,439] {logging_mixin.py:115} INFO - [2024-04-23 21:34:20,438] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:34:20,465] {logging_mixin.py:115} INFO - [2024-04-23 21:34:20,465] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:34:20,481] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.514 seconds
+[2024-04-23 21:34:50,572] {processor.py:153} INFO - Started process (PID=5265) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:34:50,572] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:34:50,573] {logging_mixin.py:115} INFO - [2024-04-23 21:34:50,573] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:34:51,127] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:34:51,159] {logging_mixin.py:115} INFO - [2024-04-23 21:34:51,158] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:34:51,195] {logging_mixin.py:115} INFO - [2024-04-23 21:34:51,195] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:34:51,215] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.648 seconds
+[2024-04-23 21:35:21,619] {processor.py:153} INFO - Started process (PID=5327) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:35:21,620] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:35:21,621] {logging_mixin.py:115} INFO - [2024-04-23 21:35:21,621] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:35:22,117] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:35:22,145] {logging_mixin.py:115} INFO - [2024-04-23 21:35:22,144] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:35:22,169] {logging_mixin.py:115} INFO - [2024-04-23 21:35:22,169] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:35:22,185] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.572 seconds
+[2024-04-23 21:35:52,565] {processor.py:153} INFO - Started process (PID=5397) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:35:52,566] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:35:52,567] {logging_mixin.py:115} INFO - [2024-04-23 21:35:52,567] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:35:53,014] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:35:53,068] {logging_mixin.py:115} INFO - [2024-04-23 21:35:53,065] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:35:53,100] {logging_mixin.py:115} INFO - [2024-04-23 21:35:53,100] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:35:53,117] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.557 seconds
+[2024-04-23 21:36:23,498] {processor.py:153} INFO - Started process (PID=5467) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:36:23,499] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:36:23,500] {logging_mixin.py:115} INFO - [2024-04-23 21:36:23,500] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:36:23,960] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:36:23,987] {logging_mixin.py:115} INFO - [2024-04-23 21:36:23,986] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:36:24,027] {logging_mixin.py:115} INFO - [2024-04-23 21:36:24,027] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:36:24,049] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.556 seconds
+[2024-04-23 21:36:54,406] {processor.py:153} INFO - Started process (PID=5528) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:36:54,406] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:36:54,407] {logging_mixin.py:115} INFO - [2024-04-23 21:36:54,407] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:36:54,890] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:36:54,921] {logging_mixin.py:115} INFO - [2024-04-23 21:36:54,920] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:36:54,947] {logging_mixin.py:115} INFO - [2024-04-23 21:36:54,947] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:36:54,962] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.562 seconds
+[2024-04-23 21:37:25,310] {processor.py:153} INFO - Started process (PID=5598) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:37:25,311] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:37:25,311] {logging_mixin.py:115} INFO - [2024-04-23 21:37:25,311] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:37:25,722] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:37:25,751] {logging_mixin.py:115} INFO - [2024-04-23 21:37:25,750] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:37:25,777] {logging_mixin.py:115} INFO - [2024-04-23 21:37:25,777] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:37:25,797] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.492 seconds
+[2024-04-23 21:37:56,045] {processor.py:153} INFO - Started process (PID=5668) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:37:56,046] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:37:56,047] {logging_mixin.py:115} INFO - [2024-04-23 21:37:56,047] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:37:56,537] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:37:56,566] {logging_mixin.py:115} INFO - [2024-04-23 21:37:56,565] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:37:56,593] {logging_mixin.py:115} INFO - [2024-04-23 21:37:56,592] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:37:56,607] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.569 seconds
+[2024-04-23 21:38:26,835] {processor.py:153} INFO - Started process (PID=5729) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:38:26,836] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:38:26,837] {logging_mixin.py:115} INFO - [2024-04-23 21:38:26,837] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:38:27,314] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:38:27,350] {logging_mixin.py:115} INFO - [2024-04-23 21:38:27,349] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:38:27,391] {logging_mixin.py:115} INFO - [2024-04-23 21:38:27,391] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:38:27,406] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.582 seconds
+[2024-04-23 21:38:58,107] {processor.py:153} INFO - Started process (PID=5799) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:38:58,108] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:38:58,109] {logging_mixin.py:115} INFO - [2024-04-23 21:38:58,108] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:38:58,523] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:38:58,551] {logging_mixin.py:115} INFO - [2024-04-23 21:38:58,550] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:38:58,578] {logging_mixin.py:115} INFO - [2024-04-23 21:38:58,578] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:38:58,594] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.492 seconds
+[2024-04-23 21:39:29,553] {processor.py:153} INFO - Started process (PID=5869) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:39:29,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:39:29,554] {logging_mixin.py:115} INFO - [2024-04-23 21:39:29,554] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:39:30,111] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:39:30,145] {logging_mixin.py:115} INFO - [2024-04-23 21:39:30,144] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:39:30,183] {logging_mixin.py:115} INFO - [2024-04-23 21:39:30,183] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:39:30,201] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.653 seconds
+[2024-04-23 21:40:00,750] {processor.py:153} INFO - Started process (PID=5930) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:40:00,751] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:40:00,752] {logging_mixin.py:115} INFO - [2024-04-23 21:40:00,752] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:40:01,289] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:40:01,325] {logging_mixin.py:115} INFO - [2024-04-23 21:40:01,324] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:40:01,354] {logging_mixin.py:115} INFO - [2024-04-23 21:40:01,354] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:40:01,372] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.628 seconds
+[2024-04-23 21:40:32,156] {processor.py:153} INFO - Started process (PID=6000) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:40:32,157] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:40:32,158] {logging_mixin.py:115} INFO - [2024-04-23 21:40:32,158] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:40:32,593] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:40:32,643] {logging_mixin.py:115} INFO - [2024-04-23 21:40:32,641] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:40:32,672] {logging_mixin.py:115} INFO - [2024-04-23 21:40:32,672] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:40:32,688] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.537 seconds
+[2024-04-23 21:41:03,592] {processor.py:153} INFO - Started process (PID=6070) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:41:03,594] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:41:03,595] {logging_mixin.py:115} INFO - [2024-04-23 21:41:03,595] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:41:04,010] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:41:04,040] {logging_mixin.py:115} INFO - [2024-04-23 21:41:04,039] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:41:04,070] {logging_mixin.py:115} INFO - [2024-04-23 21:41:04,070] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:41:04,085] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.498 seconds
+[2024-04-23 21:41:34,519] {processor.py:153} INFO - Started process (PID=6131) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:41:34,520] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:41:34,521] {logging_mixin.py:115} INFO - [2024-04-23 21:41:34,521] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:41:34,933] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:41:34,961] {logging_mixin.py:115} INFO - [2024-04-23 21:41:34,960] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:41:34,987] {logging_mixin.py:115} INFO - [2024-04-23 21:41:34,987] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:41:35,003] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.489 seconds
+[2024-04-23 21:42:05,410] {processor.py:153} INFO - Started process (PID=6201) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:42:05,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:42:05,411] {logging_mixin.py:115} INFO - [2024-04-23 21:42:05,411] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:42:05,870] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:42:05,899] {logging_mixin.py:115} INFO - [2024-04-23 21:42:05,898] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:42:05,943] {logging_mixin.py:115} INFO - [2024-04-23 21:42:05,943] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:42:05,958] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.554 seconds
+[2024-04-23 21:42:36,394] {processor.py:153} INFO - Started process (PID=6271) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:42:36,395] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 21:42:36,396] {logging_mixin.py:115} INFO - [2024-04-23 21:42:36,396] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:42:36,827] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 21:42:36,856] {logging_mixin.py:115} INFO - [2024-04-23 21:42:36,855] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 21:42:36,882] {logging_mixin.py:115} INFO - [2024-04-23 21:42:36,882] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 21:42:36,897] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 0.508 seconds
+[2024-04-23 23:37:27,604] {processor.py:153} INFO - Started process (PID=6323) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:37:27,684] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 23:37:27,813] {logging_mixin.py:115} INFO - [2024-04-23 23:37:27,812] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:37:33,285] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:37:33,594] {logging_mixin.py:115} INFO - [2024-04-23 23:37:33,587] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 23:37:33,761] {logging_mixin.py:115} INFO - [2024-04-23 23:37:33,760] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 23:37:33,976] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 6.449 seconds
+[2024-04-23 23:38:08,793] {processor.py:153} INFO - Started process (PID=6394) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:38:08,821] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 23:38:08,823] {logging_mixin.py:115} INFO - [2024-04-23 23:38:08,823] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:38:12,384] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:38:38,725] {logging_mixin.py:115} INFO - [2024-04-23 23:38:38,724] {process_utils.py:240} INFO - Waiting up to 5 seconds for processes to exit...
+[2024-04-23 23:39:00,476] {processor.py:153} INFO - Started process (PID=46) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:39:00,477] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 23:39:00,479] {logging_mixin.py:115} INFO - [2024-04-23 23:39:00,479] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:39:02,427] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:39:02,471] {logging_mixin.py:115} INFO - [2024-04-23 23:39:02,470] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 23:39:02,518] {logging_mixin.py:115} INFO - [2024-04-23 23:39:02,518] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 23:39:02,539] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 2.071 seconds
+[2024-04-23 23:39:33,430] {processor.py:153} INFO - Started process (PID=103) to work on /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:39:33,440] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_teste.py for tasks to queue
+[2024-04-23 23:39:33,443] {logging_mixin.py:115} INFO - [2024-04-23 23:39:33,443] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:39:41,726] {logging_mixin.py:115} INFO - [2024-04-23 23:39:41,726] {process_utils.py:240} INFO - Waiting up to 5 seconds for processes to exit...
+[2024-04-23 23:39:42,371] {logging_mixin.py:115} INFO - [2024-04-23 23:39:42,371] {process_utils.py:240} INFO - Waiting up to 5 seconds for processes to exit...
+[2024-04-23 23:39:42,373] {logging_mixin.py:115} WARNING - Exception ignored in: <function WeakKeyDictionary.__init__.<locals>.remove at 0x7f7d026b9cb0>
+[2024-04-23 23:39:42,373] {logging_mixin.py:115} WARNING - Traceback (most recent call last):
+[2024-04-23 23:39:42,374] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/weakref.py", line 358, in remove
+[2024-04-23 23:39:42,374] {logging_mixin.py:115} WARNING -     def remove(k, selfref=ref(self)):
+[2024-04-23 23:39:42,375] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 456, in _exit_gracefully
+[2024-04-23 23:39:42,376] {logging_mixin.py:115} WARNING -     self.log.debug("Current Stacktrace is: %s", '\n'.join(map(str, inspect.stack())))
+[2024-04-23 23:39:42,376] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1513, in stack
+[2024-04-23 23:39:42,379] {logging_mixin.py:115} WARNING -     return getouterframes(sys._getframe(1), context)
+[2024-04-23 23:39:42,379] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1490, in getouterframes
+[2024-04-23 23:39:42,381] {logging_mixin.py:115} WARNING -     frameinfo = (frame,) + getframeinfo(frame, context)
+[2024-04-23 23:39:42,381] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1464, in getframeinfo
+[2024-04-23 23:39:42,382] {logging_mixin.py:115} WARNING -     lines, lnum = findsource(frame)
+[2024-04-23 23:39:42,383] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 780, in findsource
+[2024-04-23 23:39:42,384] {logging_mixin.py:115} WARNING -     module = getmodule(object, file)
+[2024-04-23 23:39:42,384] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 739, in getmodule
+[2024-04-23 23:39:42,385] {logging_mixin.py:115} WARNING -     f = getabsfile(module)
+[2024-04-23 23:39:42,386] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 708, in getabsfile
+[2024-04-23 23:39:42,386] {logging_mixin.py:115} WARNING -     _filename = getsourcefile(object) or getfile(object)
+[2024-04-23 23:39:42,387] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 693, in getsourcefile
+[2024-04-23 23:39:42,388] {logging_mixin.py:115} WARNING -     if os.path.exists(filename):
+[2024-04-23 23:39:42,388] {logging_mixin.py:115} WARNING -   File "/usr/local/lib/python3.7/genericpath.py", line 19, in exists
+[2024-04-23 23:39:42,389] {logging_mixin.py:115} WARNING -     os.stat(path)
+[2024-04-23 23:39:42,390] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 458, in _exit_gracefully
+[2024-04-23 23:39:42,390] {logging_mixin.py:115} WARNING -     self.end()
+[2024-04-23 23:39:42,391] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 1119, in end
+[2024-04-23 23:39:42,392] {logging_mixin.py:115} WARNING -     kill_child_processes_by_pids(pids_to_kill)
+[2024-04-23 23:39:42,393] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/process_utils.py", line 250, in kill_child_processes_by_pids
+[2024-04-23 23:39:42,393] {logging_mixin.py:115} WARNING -     x for x in this_process.children(recursive=True) if x.is_running() and x.pid in pids_to_kill
+[2024-04-23 23:39:42,394] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/psutil/__init__.py", line 278, in wrapper
+[2024-04-23 23:39:42,395] {logging_mixin.py:115} WARNING -     return fun(self, *args, **kwargs)
+[2024-04-23 23:39:42,395] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/psutil/__init__.py", line 906, in children
+[2024-04-23 23:39:42,396] {logging_mixin.py:115} WARNING -     ppid_map = _ppid_map()
+[2024-04-23 23:39:42,397] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/psutil/_pslinux.py", line 1640, in ppid_map
+[2024-04-23 23:39:42,398] {logging_mixin.py:115} WARNING -     with open_binary("%s/%s/stat" % (procfs_path, pid)) as f:
+[2024-04-23 23:39:42,398] {logging_mixin.py:115} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 460, in _exit_gracefully
+[2024-04-23 23:39:42,399] {logging_mixin.py:115} WARNING -     sys.exit(os.EX_OK)
+[2024-04-23 23:39:42,399] {logging_mixin.py:115} WARNING - SystemExit: 0
+[2024-04-23 23:39:42,925] {processor.py:651} INFO - DAG(s) dict_keys(['moedas']) retrieved from /opt/airflow/dags/dag_teste.py
+[2024-04-23 23:39:42,966] {logging_mixin.py:115} INFO - [2024-04-23 23:39:42,965] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-04-23 23:39:43,000] {logging_mixin.py:115} INFO - [2024-04-23 23:39:43,000] {dag.py:2919} INFO - Setting next_dagrun for moedas to None, run_after=None
+[2024-04-23 23:39:43,021] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_teste.py took 9.639 seconds
