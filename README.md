@@ -1,5 +1,5 @@
 # airflow-docker
-Crie um repositório com o nome do projeto, ex: 'airflow-docker'. \n
+Crie um repositório com o nome do projeto, ex: 'airflow-docker'. <br/>
 Dentro deste repositório tenha todos estes arquivos. \n
 No terminal de comando, dentro deste repositório, execute o comando: \n
 1 "docker-compose up airflow-init"
